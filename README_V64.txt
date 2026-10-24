@@ -1,0 +1,1 @@
+v6.4 diagnostic build. This source archive intentionally does not contain peerjs.min.js. Run BUILD_IPK.ps1 from its extracted folder to download the library BEFORE packaging. On TV, inspect Peer Diagnostics for script loading, JavaScript exceptions, and WebRTC availability. This is diagnostic, not a confirmed WebRTC compatibility fix.
