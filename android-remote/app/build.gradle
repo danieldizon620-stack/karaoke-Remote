@@ -1,3 +1,6 @@
 plugins { id 'com.android.application' }
-android { namespace 'com.dannyboi.karaokeremote'; compileSdk 35
- defaultConfig { applicationId 'com.dannyboi.karaokeremote'; minSdk 26; targetSdk 28; versionCode 44; versionName '4.4' } }
+android {
+ namespace 'com.dannyboi.tvremote'
+ compileSdk 35
+ defaultConfig { applicationId 'com.dannyboi.tvremote'; minSdk 24; targetSdk 28; versionCode 60; versionName '6.0.0' }
+}

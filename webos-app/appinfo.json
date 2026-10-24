@@ -1,0 +1,10 @@
+{
+  "id": "com.dannyboi.karaoke.standalone",
+  "version": "6.0.0",
+  "vendor": "Dannyboi",
+  "type": "web",
+  "main": "index.html",
+  "title": "dannyboi's Karaoke",
+  "icon": "icon.png",
+  "requiredACG": []
+}
